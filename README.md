@@ -23,7 +23,3 @@ When the app loads:
 - Shows **profile picture, name, and short bio**  
 - A **Toggle Size button** switches between **Large (400px)** and **Small (250px)** card width  
 - Page has a **light background**, while the card is **white with shadow**
-
----
-
-
